@@ -1,6 +1,6 @@
 # Hi, I'm Swetalina 👋
 
-🎓 Pre-FinalY ear Computer Science Student at VIT Bhopal University  
+🎓 Pre-Final Year Computer Science Student at VIT Bhopal University  
 💡 Passionate about Machine Learning, Data Analysis, and Software Development  
 🚀 Building data-driven applications and AI-powered tools
 
